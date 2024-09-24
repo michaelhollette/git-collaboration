@@ -33,7 +33,7 @@ git add .
 git commit -m "A message describing changes since the last commit" 
 ```
 
-4. If you type `git status`, you should see a message saying there are no changes to commit and that your branch is 1 commit ahead of 'origin/main'.
+4. If you type `git status`, you should see a message saying there are no changes to commit and that your branch is 1 commit ahead of 'origin/main'. 
 
 ## Part 4A: `git push`
 1. **Both Partners**: Go to your personal GitHub fork of the repo. You will notice that even if you refresh the page, you will not see Partner A's commit or any of the changes you have made so far. Currently Partner A has only been making changes to their local repository.
